@@ -11,6 +11,8 @@ import sys, os
 import seaborn as sns
 import pandas as pd
 import scipy as sp
+from IPython.display import display
+
 
 
 warnings.filterwarnings("ignore")
